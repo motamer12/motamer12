@@ -76,3 +76,9 @@
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
 </a>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/motamer12/count.svg?"  />
+</div>
+
+
+
