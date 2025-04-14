@@ -64,13 +64,15 @@
 
 ###
 
-<p align="left">🌐 Connect with Me:</p>
+### 🌐 Connect with Me:
 
-###
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+</a>
+<a href="https://github.com/YOUR-GITHUB" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+</a>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
