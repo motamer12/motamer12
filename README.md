@@ -66,13 +66,13 @@
 
 ### 🌐 Connect with Me:
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-tamer-16b78524a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:mohamed.tamer3355@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
 </a>
-<a href="https://github.com/YOUR-GITHUB" target="_blank">
+<a href="https://github.com/motamer12" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
 </a>
 
